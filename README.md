@@ -1,5 +1,9 @@
 # paper_sorrentino_ral2024_balancing_torque
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/65f5d3d6-583b-4c6f-9c37-e4b026beec6e" alt="paperVideoBalacingController">
+</p>
+
 ## Installation
 
 For all the following steps, open a terminal and move to a directory where to install the software.
