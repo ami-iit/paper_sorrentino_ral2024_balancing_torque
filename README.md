@@ -1,7 +1,7 @@
 # paper_sorrentino_ral2024_balancing_torque
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/65f5d3d6-583b-4c6f-9c37-e4b026beec6e" alt="paperVideoBalacingController">
+  <img src="https://github.com/user-attachments/assets/98c5e327-35e1-41b8-bef4-bc9e77589493" alt="paperVideoBalacingController">
 </p>
 
 ## Installation
